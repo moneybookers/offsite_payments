@@ -1,0 +1,4 @@
+Please add all missing country codes on Moneybookers/ Skrill integration
+ 
+https://www.skrill.com/fileadmin/content/pdf/Skrill_Quick_Checkout_Guide.pdf-  9.3. ISO country codes from our integration guide
+ 
